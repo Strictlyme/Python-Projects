@@ -1,4 +1,4 @@
-##My Python Projects
+## My Python Projects
 
 This is going to be a repository for all my favourite python projects that are probably simple but cool.
 First one is the 'helloworldbutbetter.py' which is a simple hello world window but with a little customization to the way the text is displayed and some color changes.
