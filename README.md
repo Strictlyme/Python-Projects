@@ -10,7 +10,7 @@ This is going to be a repository for all my favourite python projects that are p
 
 ![image](https://github.com/user-attachments/assets/e00c5048-cd5d-4169-b878-d81947c5c6b7)
 
-3. This is a simulation of crypto price changes overtime.
+3. This is a simulation of crypto price changes overtime.(terminal based on linux)
 
 ![screenshot_14062025_082203](https://github.com/user-attachments/assets/ba5e1e07-aa55-4816-998d-e107db1ee9f2)
 
