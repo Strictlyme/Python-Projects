@@ -14,5 +14,8 @@ This is going to be a repository for all my favourite python projects that are p
 
 ![screenshot_14062025_082203](https://github.com/user-attachments/assets/ba5e1e07-aa55-4816-998d-e107db1ee9f2)
 
-   
+4. A simple clock app, not much but it is a minimalistic display of the current date and time.
+
+![screenshot_14062025_083303](https://github.com/user-attachments/assets/3325bb51-15e1-4cad-89b7-bccd956da348)
+
 More projects coming.
