@@ -1,0 +1,18 @@
+import tkinter as tk,time
+window = tk.Tk()
+window.title('Clock App')
+window.attributes('-topmost',True)
+window.geometry('500x150')
+window.resizable(False,False)
+window.config(bg='Black')
+date = time.strftime("\n%d %B %Y")
+display_date = tk.Label(window,font=('Helvetica',20),fg='White',bg='Black',text=date)
+display_clock = tk.Label(window,font=('Helvetica',30),fg='White',bg='Black')
+display_date.pack()
+display_clock.pack()
+def update_clock():
+    clock = time.strftime("%I : %M : %S %p")
+    display_clock.config(text=clock)
+    display_clock.after(1000,update_clock)
+update_clock()
+window.mainloop()
