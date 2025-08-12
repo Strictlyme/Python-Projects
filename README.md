@@ -18,4 +18,7 @@ This is going to be a repository for all my favourite python projects that are p
 
 ![screenshot_14062025_083303](https://github.com/user-attachments/assets/3325bb51-15e1-4cad-89b7-bccd956da348)
 
-More projects coming.
+5. A password generator that saves passwords to a text file based on user input.
+
+<img width="663" height="84" alt="image" src="https://github.com/user-attachments/assets/8b8a9e32-3916-4197-a76f-848700f0a6ec" />
+
